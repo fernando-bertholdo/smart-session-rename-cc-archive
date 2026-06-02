@@ -1,3 +1,10 @@
+> **Arquivado.** Este plugin foi migrado para o marketplace agregador
+> [`4-successful-AI-life`](https://github.com/fernando-bertholdo/4-successful-AI-life)
+> sob o nome `smart-session-rename-cc`. Histórico preservado via `git filter-repo`.
+> Issues e desenvolvimento futuro acontecem no repo novo.
+
+---
+
 # claude-code-smart-session-rename
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
